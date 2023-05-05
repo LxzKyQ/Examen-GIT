@@ -43,7 +43,7 @@ nouvelle branche, "BranchFile". Que dois-je faire ?
 	git status
 	git branch BranchFile
 	git checkout BranchFile
-	git status
+	git status apply
 
 
 8) git commit --amend -m "Test"
